@@ -1,0 +1,1 @@
+import{d as e,o as n,c as t}from"./framework.fC-vvecU.js";const s=e({__name:"content",setup(o){return(a,c)=>(n(),t("div",null," 我是通过子组件引入 但是就是凡是遇到需要独立渲染的都要写子组件再引入再用markRaw包裹 "))}});export{s as default};
